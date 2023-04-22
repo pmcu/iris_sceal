@@ -5,7 +5,7 @@
  <html>
 <head>
 
-<link rel="stylesheet" type="text/css" href="/style/xsl-style.css" />
+<link rel="stylesheet" type="text/css" href="style/xsl-style.css" />
 
  </head>
 <body>
@@ -48,7 +48,7 @@
 </xsl:for-each>
 </table>
 <br></br>
-<table><tr><td ><img src="/pic/home.png"></img></td><td><a href="index.html">Baile</a></td></tr></table>
+<table><tr><td ><img src="pic/home.png"></img></td><td><a href="index.html">Baile</a></td></tr></table>
 
 </body>
 </html>
