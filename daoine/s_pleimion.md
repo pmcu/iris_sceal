@@ -1,4 +1,4 @@
-[Siar](/daoine.xml) | [Baile](/index.html) | [ainm.ie](https://www.ainm.ie/Bio.aspx?ID=38)
+[Siar](/daoine.xml) | [ainm.ie](https://www.ainm.ie/Bio.aspx?ID=38)
 ------------------
 # Pléimeann, Seán - 1814-96
 

@@ -1,7 +1,7 @@
 
 
 ##  Foireann Ghnó Chonradh na Gaeilge 1897
-[Siar](/SC1/scl-1.html) | [Baile](/index.html) | [Scéalta](/liosta.xml) | [daoine](/daoine.xml)
+[Siar](/SC1/scl-1.html) | [Scéalta](/liosta.xml) | [daoine](/daoine.xml)
 
 -----
 # Na Fir Ghnímh

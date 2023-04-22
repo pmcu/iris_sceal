@@ -1,4 +1,4 @@
-[Siar](/daoine.xml) | [Baile](/index.html) | [ainm.ie](https://www.ainm.ie/Bio.aspx?ID=307)
+[Siar](/daoine.xml) | [ainm.ie](https://www.ainm.ie/Bio.aspx?ID=307)
 ------------------
 # Ó Briain,  Pádaig - c.1848-1913
 
