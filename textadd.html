@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+   <head>
+   <link rel="stylesheet" type="text/css" href="/style/text.css" />
+   </head>
+<body>
+
+<nav>
+<a href="index.html"> Baile </a> |
+<a href="liosta.xml"> Scéalta </a> |
+</nav>
+<hr>
+   <div><img src="pic/IrisLeabhar-iii.jpg" alt="IG" ></img></div>
+   <h2>Roghnaigh Scéal</h2>
+   <select id="list" style="padding: 10px;" onchange="getSelectValue();">
+     <option value="macBrad.html">Mac Bradáin</option>
+     <option value="ealai.html">Eachtra Ealaí</option>
+     <option value="briongloid.html">Brionglóid</option>
+     <option value="aodh_beag.html">Aodh Beag</option>
+       <option value="nora.html">Nóra</option>
+       <option value="domhnall-dubh.html">Domhnall Dubh</option>
+
+   </select>
+   <button class="button" type="button" onclick="loadXMLDoc()">Lód an Scéal</button>
+
+<!-- Using the XMLHttpRequest object -->
+
+<div id="demo"></div>
+
+<script>
+
+
+function loadXMLDoc() {
+   var e = document.getElementById("list");
+   var result = e.options[e.selectedIndex].value;
+   var xmlhttp;
+  if (window.XMLHttpRequest) {
+    xmlhttp = new XMLHttpRequest();
+  } else {
+    // code for older browsers
+    xmlhttp = new ActiveXObject("Microsoft.XMLHTTP");
+  }
+  xmlhttp.onreadystatechange = function() {
+    if (this.readyState == 4 && this.status == 200) {
+      document.getElementById("demo").innerHTML =
+      this.responseText;
+    }
+  };
+  xmlhttp.open("GET", result, true);
+  xmlhttp.send();
+}
+</script>
+
+</body>
+</html>
