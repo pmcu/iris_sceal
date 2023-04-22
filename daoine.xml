@@ -5,43 +5,43 @@
 <ainm>Seán Pléimeann</ainm>
 <iris>Iris V-i</iris>
 <nota>An Chéad Eagorthóir- Scríbhneoir</nota>
-<LINK VALUE="daoine/s_pleimion.html">S. Pléimeann</LINK>
+<LINK VALUE="daoine/s_pleimion.md">S. Pléimeann</LINK>
 </scl>
 <scl id="3">
 <ainm>Dúghlas De hÍde</ainm>
 <iris>Iris Vi</iris>
 <nota>Scíbhneoir</nota>
-<LINK VALUE="daoine/d_dehide.html">D. De hÍde</LINK>
+<LINK VALUE="daoine/d_dehide.md">D. De hÍde</LINK>
 </scl>
 <scl id="4">
 <ainm>Daithí Coimín</ainm>
 <iris>Iris V-i</iris>
 <nota>Scríbhneoir - Eagarthóir</nota>
-<LINK VALUE="daoine/d_coimín.html">Coimín</LINK>
+<LINK VALUE="daoine/d_coimín.md">Coimín</LINK>
 </scl>
 <scl id="10">
 <ainm>Eoghan Ó Gramhnaigh</ainm>
 <iris>Iris V-ii</iris>
 <nota>Scríbhneoir</nota>
-<LINK VALUE="daoine/e_ogramhnaigh.html">E. Ó Gramhnaigh</LINK>
+<LINK VALUE="daoine/e_ogramhnaigh.md">E. Ó Gramhnaigh</LINK>
 </scl>
 <scl id="11">
 <ainm>Pádraig Ó Briain</ainm>
 <iris>Iris V-ii</iris>
 <nota>Scríbhneoir</nota>
-<LINK VALUE="daoine/p_obriain.html">P. Ó Briain</LINK>
+<LINK VALUE="daoine/p_obriain.md">P. Ó Briain</LINK>
 </scl>
 <scl id="14">
 <ainm>Seosamh Laoide</ainm>
 <iris>Iris V-ii</iris>
 <nota>Scríbhneoir</nota>
-<LINK VALUE="daoine/s_laoide.html">S. Laoide</LINK>
+<LINK VALUE="daoine/s_laoide.md">S. Laoide</LINK>
 </scl>
 <scl id="16">
 <ainm>Seán Mac an Bháird</ainm>
 <iris>Iris V-ii</iris>
 <nota>Scríbhneoir</nota>
-<LINK VALUE="daoine/s_macanbhaird.html">S. Mac an Bháird</LINK>
+<LINK VALUE="daoine/s_macanbhaird.md">S. Mac an Bháird</LINK>
 </scl>
 
 </cnuas>
