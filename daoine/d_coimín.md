@@ -1,4 +1,4 @@
-[Siar](/daoine.xml) | [Baile](/index.html) | [ainm.ie](https://www.ainm.ie/Bio.aspx?ID=131)
+[Siar](/daoine.xml) | [Baile](/iris_sceal/index.html) | [ainm.ie](https://www.ainm.ie/Bio.aspx?ID=131)
 ------------------
 # Coimín,  Daithí - 1854-1907
 
