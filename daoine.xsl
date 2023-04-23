@@ -11,7 +11,7 @@
 <body>
 <nav>
 <a href="index.html"> Baile </a> |
-<a href="/daoine/foirnIG.html">Na Fir Ghnímh</a>
+<a href="daoine/foirnIG.html">Na Fir Ghnímh</a>
 <hr />
 </nav>
   <table border="1">
